@@ -1,4 +1,6 @@
-a=10
-b=15
-sum=a+b
-print(sum)
+print('what is your name? '))
+name=input(name)
+age = int(input("How old are you? "))
+print(f"{name}'s {age} years old")
+fav_color = input('What is your fav colour? ')
+print(f"{name}'s fav color is", fav_color)
